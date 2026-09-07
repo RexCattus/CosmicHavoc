@@ -586,7 +586,7 @@ MonoBehaviour:
   shootSound: {fileID: 8300000, guid: 21438e7e24d5e714aa1be35141d4ff16, type: 3}
   shootSoudVolume: 0.4
   burstCount: 3
-  burstInterval: 0.3
+  burstInterval: 0.6
   audioSource: {fileID: 5186438346788335229}
   explodeShip: {fileID: 8300000, guid: b2ffb3ac5a3761a40b5f20b2b3db5001, type: 3}
   explodeShipVolume: 1

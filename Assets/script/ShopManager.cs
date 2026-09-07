@@ -105,7 +105,7 @@ public class ShopManager : MonoBehaviour
             else
             {
                 Debug.Log("Không đủ tiền!");
-                if (txtNote2 != null) txtNote2.text = "Not Enough Coins";
+                if (txtNote2 != null) txtNote2.text = "Not Enough";
             }
         }
         else // Đã mua thì select
@@ -141,7 +141,7 @@ public class ShopManager : MonoBehaviour
             else
             {
                 Debug.Log("Không đủ tiền!");
-                if (txtNote3 != null) txtNote3.text = "Not Enough Coins";
+                if (txtNote3 != null) txtNote3.text = "Not Enough";
             }
         }
         else
@@ -177,7 +177,7 @@ public class ShopManager : MonoBehaviour
             else
             {
                 Debug.Log("Không đủ tiền!");
-                if (txtNote4 != null) txtNote4.text = "Not Enough Coins";
+                if (txtNote4 != null) txtNote4.text = "Not Enough";
             }
         }
         else
